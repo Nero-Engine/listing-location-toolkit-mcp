@@ -2,8 +2,8 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.Nero-Engine/listing-location-toolkit",
   "title": "Listing Location Toolkit",
-  "description": "Location facts for property and business listings: drive times, people within 2 hours, nature.",
-  "version": "0.1.0",
+  "description": "Listing and home buyer facts: drive times, people reached, schools, shops, flood, crime.",
+  "version": "0.2.0",
   "repository": {
     "url": "https://github.com/Nero-Engine/listing-location-toolkit-mcp",
     "source": "github"
