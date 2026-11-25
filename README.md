@@ -124,6 +124,13 @@ In the US, `schools_nearby` for the Cooperstown inn names the school district th
 
 Every answer carries its own `sources` list, so the credit lines can go straight into the listing.
 
+## Skills
+
+This server also publishes ready-made playbooks (Skills over MCP), so Claude and other agents know the steps for the whole job, not just each tool. Each is a `SKILL.md` at `skill://<name>/SKILL.md`, listed by `skills/list` and `resources/list`, read with `resources/read`.
+
+- `home-buyer-report`: Build a home buyer report for any US or UK address in two or three calls: schools with Ofsted grades or US school districts, everyday places and a 15 minute walk check, neighbourhood income and prices, flood zone, crime and drive times, each with its source.
+- `property-listing-location-pack`: Write the location section of a property or business-for-sale listing (land, holiday park, campsite, hotel, farm, commercial site): drive times to towns, cities and airports, people within 1, 2 and 4 hours, nearby lakes, coast, national parks and attractions, plot size and map links, all sourced.
+
 ## Limits
 
 Up to 4 drive bands per call, each 15 minutes to 5 hours. Up to 20 destinations (6 by name). Nearby search up to 40 miles. Polygons up to 5,000 points. The people count, the nearby place list and the home buyer tools cover the US and UK; drive times and plot size work anywhere roads are mapped. Ofsted ratings and deprivation cover England; sale prices England and Wales; flood zones the US and England; street crime England, Wales and Northern Ireland. US crime by address is not included: there is no free national source.
