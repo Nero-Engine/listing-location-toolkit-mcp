@@ -1,5 +1,7 @@
 # Listing Location Toolkit (Remote MCP Server)
 
+[![Listing Location Toolkit (Remote MCP Server) MCP connector](https://glama.ai/mcp/connectors/io.github.Nero-Engine/listing-location-toolkit/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Nero-Engine/listing-location-toolkit)
+
 **Location facts for property and business-for-sale listings, written ready to paste, with sources.** Give it an address in the US or UK and it answers the questions buyers ask: how far to the nearest town, cities and airports, how many people live within a 1, 2 or 4 hour drive, what lakes, coast, mountains, national parks and attractions are nearby, whether the site is on the water, how big the plot is, and where to get an aerial photo.
 
 For home buyers it also answers the family questions: which schools are nearby and how they are rated, which school district the address is in, how far the supermarket, doctor, station and playground are, whether daily needs are within a 15 minute walk, what the neighbourhood earns and what homes sell for, the flood zone, and street crime.
