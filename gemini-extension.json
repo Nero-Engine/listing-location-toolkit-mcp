@@ -1,0 +1,12 @@
+{
+  "name": "listing-location-toolkit",
+  "version": "0.3.0",
+  "description": "Listing and home buyer facts: drive times, people reached, schools, shops, flood, crime.",
+  "mcpServers": {
+    "listing-location-toolkit": {
+      "httpUrl": "https://listing-location-toolkit.nerolabs.workers.dev/mcp",
+      "timeout": 30000
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}

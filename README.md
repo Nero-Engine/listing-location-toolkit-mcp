@@ -140,3 +140,7 @@ Up to 4 drive bands per call, each 15 minutes to 5 hours. Up to 20 destinations 
 Addresses are answered in memory and never stored by this server. To find the pin, the address is sent to the geocoder named in the answer (US Census Geocoder, postcodes.io or Nominatim), and coordinates are sent to the router and Nominatim. To see which tools get used, each call records the tool name, whether it succeeded, the client name your app reports, the country and a one-way hashed caller ID. Your addresses, your arguments and your IP address are never kept in that log.
 
 Built by **Nero Labs**.
+
+## Gemini CLI
+
+- **Gemini CLI:** `gemini extensions install https://github.com/Nero-Engine/listing-location-toolkit-mcp`
